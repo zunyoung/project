@@ -19,3 +19,4 @@
 
 빠른 시간에 잡을수록 점수를 많이 획득하게 된다.
  
+<img src="C:\Users\Public\Pictures\Sample Pictures">
